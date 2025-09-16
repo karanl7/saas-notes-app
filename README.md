@@ -29,5 +29,5 @@ Deployed on **Vercel**.
 
 ### 1. Clone Repo
 ```bash
-git clone https://github.com/<your-username>/saas-notes-app.git
+git clone https://github.com/karanl7/saas-notes-app.git
 cd saas-notes-app
