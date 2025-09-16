@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:3000/api", // later change to Vercel URL
+  baseURL: "https://saas-notes-app-five.vercel.app/", 
 });
 
 // Add JWT token automatically
