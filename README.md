@@ -32,12 +32,12 @@ Deployed on **Vercel**.
 git clone https://github.com/karanl7/saas-notes-app.git
 cd saas-notes-app
 ```
-# Test Acoounts
 ---
--# | Email                                         | Role   | Tenant |
--# | --------------------------------------------- | ------ | ------ |
--# | [admin@acme.test](mailto:admin@acme.test)     | ADMIN  | Acme   |
--# | [user@acme.test](mailto:user@acme.test)       | MEMBER | Acme   |
--# | [admin@globex.test](mailto:admin@globex.test) | ADMIN  | Globex |
--# | [user@globex.test](mailto:user@globex.test)   | MEMBER | Globex |
+### Test Acoounts
+-### | Email                                         | Role   | Tenant |
+-### | --------------------------------------------- | ------ | ------ |
+-### | [admin@acme.test](mailto:admin@acme.test)     | ADMIN  | Acme   |
+-### | [user@acme.test](mailto:user@acme.test)       | MEMBER | Acme   |
+-### | [admin@globex.test](mailto:admin@globex.test) | ADMIN  | Globex |
+-### | [user@globex.test](mailto:user@globex.test)   | MEMBER | Globex |
 ---
